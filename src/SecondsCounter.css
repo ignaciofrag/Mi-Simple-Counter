@@ -1,0 +1,22 @@
+.seconds-counter {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 10rem; 
+    font-family: 'Roboto Mono', monospace; 
+}
+
+.seconds-counter .fa-clock {
+    margin-right: 10px;
+    font-size: 10rem;
+}
+
+.seconds-counter .digits {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
